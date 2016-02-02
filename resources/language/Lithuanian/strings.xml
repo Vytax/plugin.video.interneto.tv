@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Kodion Settings -->
+    <string id="30000">Pagrindinės nuostatos</string>
+    <string id="30001">El. pašto adresas</string>
+    <string id="30002">Slaptažodis</string>
+</strings>
